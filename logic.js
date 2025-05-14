@@ -532,6 +532,7 @@ document.querySelectorAll('.box').forEach(ee => {
       }
   })
 })
+square.addEventListener('touchstart', handleMove);
 
 
      
